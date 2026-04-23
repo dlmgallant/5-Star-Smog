@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Five Star Smog logo</title>
+  <desc id="desc">Badge logo with five stars and the words Five Star Smog Oceanside California.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#112d4e"/>
+      <stop offset="100%" stop-color="#173a63"/>
+    </linearGradient>
+  </defs>
+  <path d="M320 40c119 0 216 97 216 216v74c0 119-97 216-216 216S104 449 104 330v-74C104 137 201 40 320 40z" fill="url(#g)"/>
+  <path d="M320 68c103 0 188 84 188 188v74c0 103-85 188-188 188S132 433 132 330v-74c0-104 85-188 188-188z" fill="#fff"/>
+  <path d="M320 92c89 0 164 72 164 160v80c0 88-75 160-164 160s-164-72-164-160v-80c0-88 75-160 164-160z" fill="#f7f9fc" stroke="#d6dee8" stroke-width="6"/>
+  <g fill="#c92a2a" transform="translate(320 165)">
+    <g id="star"><path d="M0,-22 6.4,-6.9 22,-6.8 9.2,2.9 14,18 -0,8.8 -14,18 -9.2,2.9 -22,-6.8 -6.4,-6.9z"/></g>
+    <use href="#star" x="-104"/>
+    <use href="#star" x="-52"/>
+    <use href="#star"/>
+    <use href="#star" x="52"/>
+    <use href="#star" x="104"/>
+  </g>
+  <text x="320" y="255" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="800" fill="#112d4e" letter-spacing="4">FIVE STAR</text>
+  <text x="320" y="336" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="900" fill="#c92a2a" letter-spacing="3">SMOG</text>
+  <text x="320" y="390" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#112d4e" letter-spacing="3">OCEANSIDE, CA</text>
+  <path d="M180 432h280" stroke="#112d4e" stroke-width="10" stroke-linecap="round"/>
+  <text x="320" y="468" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#112d4e" letter-spacing="2">FAST • HONEST • FRIENDLY</text>
+  <path d="M227 510h186" stroke="#c92a2a" stroke-width="12" stroke-linecap="round"/>
+</svg>
